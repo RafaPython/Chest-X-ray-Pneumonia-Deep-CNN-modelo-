@@ -1,10 +1,13 @@
-# Chest-X-ray-Pneumonia-Deep-CNN-modelo-
+# Modelo para la detecciónd e neumonía mediante imagenes de rayos x utilizando un CNN profundo
 
 Integrantes:
 
-Julio Emmanuel Meza Rangel
-Carlos Rendón Hernández
-Rafael Alejandro García Ramírez
+* Julio Emmanuel Meza Rangel
++ Carlos Rendón Hernández
+* Rafael Alejandro García Ramírez
+
+
+
 El presente trabajo es un modelo de red neuronal convolucional profundo que mediante los datos públicos obtenidos de Mendeley Data [3] que consisten en radiagrafías tomadas a infantes de entre 1 y 5 años de edad quienes acudieron al centro médico para mujeres y niños de Guangzhou en China, como parte de una revisión médica habitual.
 
 Las imágenes se dividen en tres datasets, uno de entrenamiento, uno de prueba y uno de validación; cada uno con las imágenes clasificadas como 'Normal' para los pacientes sanos y 'Pneumonia' para los pacientes positivos a neumonía. Esta clasificación fue realizada por dos expertos del hospital de Guangzhou.
