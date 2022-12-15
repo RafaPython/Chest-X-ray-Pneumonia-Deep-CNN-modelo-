@@ -1,4 +1,4 @@
-# Modelo para la detecciónd e neumonía mediante imagenes de rayos x utilizando un CNN profundo
+# Modelo para la detección de neumonía mediante imagenes de rayos x utilizando un CNN profundo
 
 Integrantes:
 
